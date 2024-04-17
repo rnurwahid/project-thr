@@ -1,0 +1,21 @@
+{
+    "name": "project-thr",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "p-1": "node project-1",
+        "p-2": "node project-2",
+        "p-3": "node project-3",
+        "p-4": "node project-4",
+        "p-5": "node project-5"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "file-type": "^19.0.0",
+        "qrcode": "^1.5.3"
+    }
+}
